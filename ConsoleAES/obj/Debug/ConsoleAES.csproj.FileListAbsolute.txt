@@ -1,0 +1,6 @@
+C:\Users\StaticVoidSA\source\repos\ConsoleAES\ConsoleAES\bin\Debug\ConsoleAES.exe.config
+C:\Users\StaticVoidSA\source\repos\ConsoleAES\ConsoleAES\bin\Debug\ConsoleAES.exe
+C:\Users\StaticVoidSA\source\repos\ConsoleAES\ConsoleAES\bin\Debug\ConsoleAES.pdb
+C:\Users\StaticVoidSA\source\repos\ConsoleAES\ConsoleAES\obj\Debug\ConsoleAES.csprojAssemblyReference.cache
+C:\Users\StaticVoidSA\source\repos\ConsoleAES\ConsoleAES\obj\Debug\ConsoleAES.exe
+C:\Users\StaticVoidSA\source\repos\ConsoleAES\ConsoleAES\obj\Debug\ConsoleAES.pdb

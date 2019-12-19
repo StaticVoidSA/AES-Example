@@ -40,7 +40,7 @@ namespace ConsoleAES
                 key = aes.Key;
                 initializationVector = aes.IV;
 
-                // Create an encryptor to excrypt some data
+                // Create an encryptor to encrypt some data
                 // should be wrapped in a using for production code
                 ICryptoTransform encryptor = aes.CreateEncryptor();
 

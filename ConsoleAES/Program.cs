@@ -20,7 +20,7 @@ namespace ConsoleAES
 
         static void Main(string[] args)
         {
-            // String to be hashed
+            // String to be encrypted
             string plainText = "This is my super duper secret data...";
 
             // byte array to hold encrypted message
